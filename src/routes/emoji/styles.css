@@ -1,0 +1,11 @@
+.emoji {
+    padding: 1rem 2rem;
+    border: 1px solid #e2e2e2;
+    border-radius: .25rem;
+    cursor: pointer;
+    width: fit-content;
+}
+
+.emoji.active {
+    border: 1px solid #3a79d8;
+}
